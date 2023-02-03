@@ -1,0 +1,17 @@
+ div{
+    width:100px;
+    height:100px;
+    background-color: aquamarine;
+    border:2px black solid;
+    display:inline-block;
+}
+
+#r1{
+    background-color:burlywood;
+}
+#r2{
+    background-color: aquamarine;
+}
+#r3{
+    background-color: bisque;
+}
